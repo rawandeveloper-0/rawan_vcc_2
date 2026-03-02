@@ -1,0 +1,4 @@
+Project Notes
+-------------
+This project was created for Version Control assignment.
+Includes HTML, CSS, and documentation tasks.
